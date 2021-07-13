@@ -1,6 +1,6 @@
 # SDL DVD Bounce Animation
 
-Now you can relive the fun of wishing it'll hit the corner!
+Now you can re-live the fun of wishing it'll hit the corner!
 
 ## Installation
 1. Install SDL and SDL2_image libraries and development files  
