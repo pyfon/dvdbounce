@@ -7,3 +7,4 @@ Now you can relive the fun of wishing it'll hit the corner!
 2. `$ make`  
 3. `$ ./dvd.bin`
 
+![Preview Image](https://github.com/pyfon/dvdbounce/raw/master/png/md.png)
